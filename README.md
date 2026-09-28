@@ -131,7 +131,7 @@ O arquivo **`jsconfig.json`**, localizado na raiz do projeto, configura o suport
 ### 1. Clonar o repositório e instalar as dependências
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/diassoaresjuniormarcelo48-a11y/e2e-test-serverest-platform.git
 cd e2e-test-serverest-platform
 npm install
 ```
