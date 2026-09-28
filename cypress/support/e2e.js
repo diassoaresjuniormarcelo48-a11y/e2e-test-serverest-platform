@@ -20,4 +20,4 @@ import './pages/home/actions';
 import './pages/shoppingList/actions';
 import './helpers/dataFactory'
 
-import '@shelex/cypress-allure-plugin/support';
+import '@mmisty/cypress-allure-adapter/support';

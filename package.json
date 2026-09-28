@@ -9,7 +9,7 @@
     "cypress": "^16.1.0"
   },
   "devDependencies": {
-    "@shelex/cypress-allure-plugin": "^2.41.2",
+    "@mmisty/cypress-allure-adapter": "^4.0.1",
     "allure-commandline": "^2.46.1"
   }
 }
