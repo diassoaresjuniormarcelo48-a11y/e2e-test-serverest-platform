@@ -33,7 +33,7 @@ jobs:
 
       - name: Gerar Relatório Allure
         if: always()
-        run: npx allure generate allure-results --clean -o allure-report
+        run: npm run allure:generate
 
       - name: Publicar Relatório no GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
