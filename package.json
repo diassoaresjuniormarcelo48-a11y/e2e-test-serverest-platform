@@ -6,9 +6,10 @@
     "allure:open": "allure open allure-report"
   },
   "dependencies": {
-    "cypress": "^16.1.0"
+    "cypress": "15.8.0"
   },
   "devDependencies": {
+    "cypress": "15.8.0",
     "@mmisty/cypress-allure-adapter": "^4.0.1",
     "allure-commandline": "^2.46.1"
   }
